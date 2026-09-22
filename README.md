@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Abhinandh!
 
-I'm a passionate Software Engineer & QA Intelligence Intern who enjoys building impactful solutions, automating workflows, testing complex systems, and exploring modern technologies. I love working on real-world products, solving problems, and continuously learning how large-scale systems work behind the scenes.
+I'm a passionate Software Engineer who enjoys building impactful solutions, automating workflows, testing complex systems, and exploring modern technologies. I love working on real-world products, solving problems, and continuously learning how large-scale systems work behind the scenes.
 
 ---
 
