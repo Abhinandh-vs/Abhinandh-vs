@@ -1,98 +1,166 @@
+<div align="center">
 
-# 👋 Hi there, I'm Abhinandh!
+<table>
+<tr>
 
-I'm a passionate Software Engineer who enjoys building impactful solutions, automating workflows, testing complex systems, and exploring modern technologies. I love working on real-world products, solving problems, and continuously learning how large-scale systems work behind the scenes.
+<td width="180" align="center">
+<img src="https://avatars.githubusercontent.com/u/106762951?v=4" width="150">
+</td>
 
----
+<td align="center">
 
-## 🚀 About Me
+<h1>Abhinandh V S</h1>
 
-* 🔭 Currently working on: QA Automation, AI Agents & Internal Tooling
-* 🌱 Learning: Kubernetes, ArgoCD, LangChain, RAG Systems & Cloud Deployments
-* 💻 Interests: Software Engineering | QA Intelligence | AI Agents | Automation | Backend Systems
-* 🏢 Working as: QA Intelligence Intern at Stats Perform
-* 🎯 Focused on building reliable automation systems and scalable solutions
-* ⚡ Love exploring how products work in production environments and improving operational workflows
+<h3>Software Engineer • Development • Automation • AI & Backend Systems</h3>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=QA+Intelligence;Test+Automation;AI+Agents;RAG+Systems;Cloud+%26+DevOps;Production+Monitoring" />
 
-## 🛠️ Tech Stack & Tools
+</td>
 
-### 💻 Languages
+</tr>
+</table>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+</div>
 
-### 🌐 Web & Frameworks
+<br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<div align="center">
 
-### ⚙️ DevOps & Tools
+<img src="https://github-readme-stats-fast.vercel.app/api?username=abhinandh-vasudevan&show_icons=true&theme=tokyonight&hide_border=true">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+</div>
 
-### 🧪 QA & Automation
+<br>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<h2 align="center">
+<font color="#C084FC">3D Contribution Graph</font>
+</h2>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhinandh-vasudevan/abhinandh-vasudevan/gh-pages/profile-night-rainbow.svg">
+</p>
 
-## 📌 Projects & Work
+<br>
 
-### 🤖 AI & Automation
+<h2 align="center">
+<font color="#F9A8D4">Contribution Snake</font>
+</h2>
 
-* Building internal AI Agents for workflow automation and productivity enhancement
-* Working on RAG-based systems and intelligent QA support tooling
-* Developed production error notification automations using Teams integrations
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhinandh-vasudevan/abhinandh-vasudevan/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-### 🏉 Sports Data & QA
+<br>
 
-* Testing and validating Rugby feeds, deployments, and production fixes
-* Working on automation around deployment validation and production monitoring
-* Improving operational visibility through log monitoring and alerting systems
+<div align="center">
 
-### 🚖 Full Stack Development
+## <font color="#C084FC">About Me</font>
 
-* Built dynamic MERN and Java-based applications including event systems and cab booking platforms
-* Worked on backend APIs, deployment pipelines, and cloud-hosted applications
+Software Engineer at **Stats Perform** building reliable systems, automation workflows and AI-powered internal tools.
 
----
+Passionate about **QA Intelligence, test automation, backend engineering, AI agents, RAG systems and DevOps**.
 
-## 🌐 Connect With Me
+I enjoy turning repetitive workflows into scalable automation and building tooling that improves reliability, visibility and developer productivity.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abhinandh-v-s/)
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/abhinandh.v.s/)
+<br>
 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/abhinandh1184)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhinandh1184@gmail.com)
+## <font color="#F9A8D4">Tech Stack</font>
 
----
+<img src="https://skillicons.dev/icons?i=python,java,js,typescript,nodejs,react,nextjs,git,github,docker,kubernetes,aws,terraform,jenkins,vscode" />
 
-## 📈 GitHub Stats
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Abhinandh-vs\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhinandh-vs\&theme=tokyonight\&hide_border=true)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandh-vs\&layout=compact\&theme=tokyonight\&hide_border=true)
+## <font color="#C084FC">What I Work With</font>
 
----
+**QA & Automation**  
+Playwright • Jest • API/UI Validation • CI/CD • Production Monitoring
 
-## 🚀 My Repositories
+**AI & Intelligent Systems**  
+LLM Applications • AI Agents • RAG • LangChain • LangGraph • ChromaDB • MCP
 
-🔗 GitHub Profile: https://github.com/Abhinandh-vs
+**Cloud & DevOps**  
+AWS • Docker • Kubernetes • ArgoCD • Terraform • Jenkins
 
----
+**Engineering**  
+Backend Systems • Internal Developer Tools • Observability • Workflow Automation
 
-⭐ *“Always curious to learn, build, automate, and improve systems one step at a time.”*
+</div>
+
+<br>
+
+<div align="center">
+
+## <font color="#F9A8D4">Featured Work</font>
+
+<a href="https://github.com/Abhinandh-vs/chargiz">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Abhinandh-vs&repo=chargiz&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Abhinandh-vs/RAG-BASED-DOCUMET-ANALYZER">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Abhinandh-vs&repo=RAG-BASED-DOCUMET-ANALYZER&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Abhinandh-vs/talentmind-rag">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Abhinandh-vs&repo=talentmind-rag&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Abhinandh-vs/streamlit_youtube-video_trimmer_downloader">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Abhinandh-vs&repo=streamlit_youtube-video_trimmer_downloader&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## <font color="#C084FC">GitHub Statistics</font>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandh-vasudevan&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinandh-vasudevan&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## <font color="#F9A8D4">Connect</font>
+
+<a href="https://github.com/abhinandh-vasudevan">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhinandh-v-s/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:abhinandh1184@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.instagram.com/abhinandh.v.s/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://x.com/abhinandh1184">
+<img src="https://skillicons.dev/icons?i=x" />
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+<em>"Build it. Automate it. Make it reliable."</em>
+</p>
