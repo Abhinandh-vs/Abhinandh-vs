@@ -49,7 +49,7 @@
 </h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Abhinandh-vs/Abhinandh-vs/gh-pages/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Abhinandh-vs/Abhinandh-vs/gh-pages/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 <br>
