@@ -1,13 +1,10 @@
+<!-- =========================
+     PROFILE HEADER
+========================= -->
+
 <div align="center">
 
-<table>
-<tr>
-
-<td width="180" align="center">
-<img src="https://avatars.githubusercontent.com/u/106762951?v=4" width="150">
-</td>
-
-<td align="center">
+<img src="https://avatars.githubusercontent.com/u/106762951?v=4" width="150" />
 
 <h1>Abhinandh V S</h1>
 
@@ -15,42 +12,65 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=QA+Intelligence;Test+Automation;AI+Agents;RAG+Systems;Cloud+%26+DevOps;Production+Monitoring" />
 
-</td>
-
-</tr>
-</table>
-
 </div>
 
 <br>
+
+<!-- =========================
+     GITHUB METRICS
+========================= -->
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=abhinandh-vasudevan&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://raw.githubusercontent.com/Abhinandh-vs/Abhinandh-vs/main/metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
 <br>
+
+<!-- =========================
+     GITHUB STATS
+========================= -->
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Abhinandh-vs&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<!-- =========================
+     3D CONTRIBUTION GRAPH
+========================= -->
 
 <h2 align="center">
 <font color="#C084FC">3D Contribution Graph</font>
 </h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhinandh-vasudevan/abhinandh-vasudevan/gh-pages/profile-night-rainbow.svg">
+<img src="https://raw.githubusercontent.com/Abhinandh-vs/Abhinandh-vs/gh-pages/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 <br>
+
+<!-- =========================
+     CONTRIBUTION SNAKE
+========================= -->
 
 <h2 align="center">
 <font color="#F9A8D4">Contribution Snake</font>
 </h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhinandh-vasudevan/abhinandh-vasudevan/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Abhinandh-vs/Abhinandh-vs/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <br>
+
+<!-- =========================
+     ABOUT ME
+========================= -->
 
 <div align="center">
 
@@ -66,6 +86,10 @@ I enjoy turning repetitive workflows into scalable automation and building tooli
 
 <br>
 
+<!-- =========================
+     TECH STACK
+========================= -->
+
 <div align="center">
 
 ## <font color="#F9A8D4">Tech Stack</font>
@@ -76,25 +100,43 @@ I enjoy turning repetitive workflows into scalable automation and building tooli
 
 <br>
 
+<!-- =========================
+     WHAT I WORK WITH
+========================= -->
+
 <div align="center">
 
 ## <font color="#C084FC">What I Work With</font>
 
-**QA & Automation**  
+**QA & Automation**
+
 Playwright • Jest • API/UI Validation • CI/CD • Production Monitoring
 
-**AI & Intelligent Systems**  
+<br>
+
+**AI & Intelligent Systems**
+
 LLM Applications • AI Agents • RAG • LangChain • LangGraph • ChromaDB • MCP
 
-**Cloud & DevOps**  
+<br>
+
+**Cloud & DevOps**
+
 AWS • Docker • Kubernetes • ArgoCD • Terraform • Jenkins
 
-**Engineering**  
+<br>
+
+**Engineering**
+
 Backend Systems • Internal Developer Tools • Observability • Workflow Automation
 
 </div>
 
 <br>
+
+<!-- =========================
+     FEATURED WORK
+========================= -->
 
 <div align="center">
 
@@ -120,24 +162,35 @@ Backend Systems • Internal Developer Tools • Observability • Workflow Auto
 
 <br>
 
+<!-- =========================
+     GITHUB STATISTICS
+========================= -->
+
 <div align="center">
 
 ## <font color="#C084FC">GitHub Statistics</font>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandh-vasudevan&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinandh-vasudevan&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinandh-vs&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abhinandh-vs&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
 </p>
 
 </div>
 
 <br>
 
+<!-- =========================
+     CONNECT
+========================= -->
+
 <div align="center">
 
 ## <font color="#F9A8D4">Connect</font>
 
-<a href="https://github.com/abhinandh-vasudevan">
+<a href="https://github.com/Abhinandh-vs">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -160,6 +213,10 @@ Backend Systems • Internal Developer Tools • Observability • Workflow Auto
 </div>
 
 <br>
+
+<!-- =========================
+     FOOTER
+========================= -->
 
 <p align="center">
 <em>"Build it. Automate it. Make it reliable."</em>
